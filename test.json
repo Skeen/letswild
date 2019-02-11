@@ -1,0 +1,12 @@
+{
+    "email": "emil@magenta.dk",
+    "domains": [
+        "*.example.com",
+       	"example.com"
+    ],
+    "dns-provider": "godaddy",
+    "auth": {
+        "auth_secret": "SECRET_KEY",
+	"auth_key": "AUTH_TOKEN"
+    }
+}

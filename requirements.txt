@@ -1,0 +1,4 @@
+docker==3.7.0
+Flask==1.0.2
+gunicorn==19.9.0
+requests==2.21.0
